@@ -1,4 +1,4 @@
-function math (one, two, three) {
+function math(one, two, three) {
   return one + (two * three);
 }
 
